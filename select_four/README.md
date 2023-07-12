@@ -2,4 +2,4 @@
 ## Name : Perawich Nualthong
 ### ID : 6340011008
 
-<img src="assets/images/Profile.jpg" >
+<img src="assets/images/Profile.jpg" width="500" >
